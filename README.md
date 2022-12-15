@@ -6,4 +6,8 @@ The 1st HiPChips workshop was held at ISCA 2022 in New York City. The informatio
 
 The 2nd HiPChips workshop will be held at HPCA 2023 in Montreal, Canada. We are currently calling for participation. The official site is here.
 
+<div> this is the left pane. </div>
 
+<div> this is the right pane </div>
+
+End.
